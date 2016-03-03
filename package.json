@@ -1,6 +1,6 @@
 {
   "name": "pomegranate-express-route-directory",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Provides directory based route loading for Pomegranate-express.",
   "main": "index.js",
   "scripts": {
