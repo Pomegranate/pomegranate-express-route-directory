@@ -25,8 +25,8 @@ module.exports = {
   },
   metadata: {
     name: 'Router',
-    layer: 'router',
-    type: 'none'
+    type: 'none',
+    depends: ['PreRouter']
   },
   plugin: {
     load: function(inject, loaded) {
